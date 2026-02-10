@@ -22,15 +22,15 @@ project structure, modular code, and practical real-world problem solving.
 
 ## Project Structure
 resume-analyzer/
-│── src/
-│ ├── main.py # Entry point
-│ ├── analyzer.py # Core comparison logic
-│ ├── utils.py # File handling utilities
-│── data/
-│ ├── resume.txt
-│ ├── job_description.txt
-│── README.md
-│── requirements.txt
+- src/
+  - main.py # Entry point
+  - analyzer.py # Core comparison logic
+  - utils.py # File handling utilities
+- data/
+  - resume.txt
+  - job_description.txt
+- README.md
+- requirements.txt
 
 ## How to Run
 1. Clone the repository
