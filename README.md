@@ -33,7 +33,7 @@ resume-analyzer/
 - requirements.txt
 
 ## How to Run
-1. Clone the repository
+1. Clone the repository with the link: https://github.com/AkshraThareja/resume-analyzer.git
 2. Open the folder in VS Code
 3. Ensure Python 3 is installed
 4. Run the following command in terminal:
